@@ -1,0 +1,32 @@
+F:\Semester6\EAD\Home Tasks\NurseryManagementSystem\NurseryManagementSystem\bin\Debug\NurseryManagementSystem.exe.config
+F:\Semester6\EAD\Home Tasks\NurseryManagementSystem\NurseryManagementSystem\bin\Debug\NurseryManagementSystem.exe
+F:\Semester6\EAD\Home Tasks\NurseryManagementSystem\NurseryManagementSystem\bin\Debug\NurseryManagementSystem.pdb
+F:\Semester6\EAD\Home Tasks\NurseryManagementSystem\NurseryManagementSystem\obj\Debug\Welcome.g.cs
+F:\Semester6\EAD\Home Tasks\NurseryManagementSystem\NurseryManagementSystem\obj\Debug\App.g.cs
+F:\Semester6\EAD\Home Tasks\NurseryManagementSystem\NurseryManagementSystem\obj\Debug\NurseryManagementSystem_MarkupCompile.cache
+F:\Semester6\EAD\Home Tasks\NurseryManagementSystem\NurseryManagementSystem\obj\Debug\NurseryManagementSystem_MarkupCompile.lref
+F:\Semester6\EAD\Home Tasks\NurseryManagementSystem\NurseryManagementSystem\obj\Debug\Welcome.baml
+F:\Semester6\EAD\Home Tasks\NurseryManagementSystem\NurseryManagementSystem\obj\Debug\NurseryManagementSystem.g.resources
+F:\Semester6\EAD\Home Tasks\NurseryManagementSystem\NurseryManagementSystem\obj\Debug\NurseryManagementSystem.Properties.Resources.resources
+F:\Semester6\EAD\Home Tasks\NurseryManagementSystem\NurseryManagementSystem\obj\Debug\NurseryManagementSystem.csproj.GenerateResource.cache
+F:\Semester6\EAD\Home Tasks\NurseryManagementSystem\NurseryManagementSystem\obj\Debug\NurseryManagementSystem.csproj.CoreCompileInputs.cache
+F:\Semester6\EAD\Home Tasks\NurseryManagementSystem\NurseryManagementSystem\obj\Debug\NurseryManagementSystem.exe
+F:\Semester6\EAD\Home Tasks\NurseryManagementSystem\NurseryManagementSystem\obj\Debug\NurseryManagementSystem.pdb
+F:\Semester6\EAD\Home Tasks\NurseryManagementSystem\NurseryManagementSystem\obj\Debug\Login.g.cs
+F:\Semester6\EAD\Home Tasks\NurseryManagementSystem\NurseryManagementSystem\obj\Debug\Login.baml
+F:\Semester6\EAD\Home Tasks\NurseryManagementSystem\NurseryManagementSystem\obj\Debug\NurseryManagementSystem.csproj.AssemblyReference.cache
+F:\Semester6\EAD\Home Tasks\NurseryManagementSystem\NurseryManagementSystem\obj\Debug\Plant Section.g.cs
+F:\Semester6\EAD\Home Tasks\NurseryManagementSystem\NurseryManagementSystem\obj\Debug\Plant Section.baml
+F:\Semester6\EAD\Home Tasks\NurseryManagementSystem\NurseryManagementSystem\obj\Debug\Add Plant.g.cs
+F:\Semester6\EAD\Home Tasks\NurseryManagementSystem\NurseryManagementSystem\obj\Debug\Add Plant.baml
+F:\Semester6\EAD\Home Tasks\NurseryManagementSystem\NurseryManagementSystem\obj\Debug\Update Plant.g.cs
+F:\Semester6\EAD\Home Tasks\NurseryManagementSystem\NurseryManagementSystem\obj\Debug\Update Plant.baml
+F:\Semester6\EAD\Home Tasks\NurseryManagementSystem\NurseryManagementSystem\obj\Debug\Delete plant.g.cs
+F:\Semester6\EAD\Home Tasks\NurseryManagementSystem\NurseryManagementSystem\obj\Debug\Delete plant.baml
+F:\Semester6\EAD\Home Tasks\NurseryManagementSystem\NurseryManagementSystem\obj\Debug\Search Plant.g.cs
+F:\Semester6\EAD\Home Tasks\NurseryManagementSystem\NurseryManagementSystem\obj\Debug\Search Plant.baml
+F:\Semester6\EAD\Home Tasks\NurseryManagementSystem\NurseryManagementSystem\obj\Debug\NurseryManagementSystem.EmployeeSection.resources
+F:\Semester6\EAD\Home Tasks\NurseryManagementSystem\NurseryManagementSystem\obj\Debug\NurseryManagementSystem.Add_Employee.resources
+F:\Semester6\EAD\Home Tasks\NurseryManagementSystem\NurseryManagementSystem\obj\Debug\NurseryManagementSystem.Delete_Employee.resources
+F:\Semester6\EAD\Home Tasks\NurseryManagementSystem\NurseryManagementSystem\obj\Debug\NurseryManagementSystem.Display_All.resources
+F:\Semester6\EAD\Home Tasks\NurseryManagementSystem\NurseryManagementSystem\obj\Debug\NurseryManagementSystem.Update_Employee.resources
